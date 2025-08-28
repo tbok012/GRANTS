@@ -6,7 +6,7 @@ on:
   schedule:
     # Runs at 08:00 UTC every day.
     # Use a cron calculator like crontab.guru to customize.
-    - cron: '33 15 * * *'
+    - cron: '35 14 * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
